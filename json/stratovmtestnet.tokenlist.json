@@ -1,0 +1,39 @@
+{
+  "name": "StratoVM Testnet Token List",
+  "timestamp": "2024-05-16T12:30:45.678Z",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/StratoSwapFinance/tokenlist/main/logo/stratologo.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 71620,
+      "name": "Wrapped Bitcoin",
+      "address": "0x4D8CfE735F78d15e4bb7ac696D7cBB2CbB8851d1",
+      "decimals": 18,
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/StratoSwapFinance/tokenlist/main/logo/wbtc.png"
+    },
+    {
+      "chainId": 71620,
+      "name": "USD Theter",
+      "address": "0x96C4b4050bC042B9C728294AD518eAE221Ae1b65",
+      "decimals": 18,
+      "symbol": "tUSDT",
+      "logoURI": "https://raw.githubusercontent.com/StratoSwapFinance/tokenlist/main/logo/usdt.png"
+    },
+    {
+      "chainId": 71620,
+      "name": "USD Coin",
+      "address": "0x23e9b3e30557c021C004496CD2cF82Df33dA829f",
+      "decimals": 18,
+      "symbol": "tUSDC",
+      "logoURI": "https://raw.githubusercontent.com/StratoSwapFinance/tokenlist/main/logo/usdc.png"
+    }
+  ]
+}
